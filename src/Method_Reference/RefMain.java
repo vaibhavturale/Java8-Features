@@ -2,7 +2,7 @@ package Method_Reference;
 
 public class RefMain {
     public static void main(String[] args) {
-        System.out.println("Learning Method reference !.........");
+        System.out.println("Learning Method  reference !.........");
 
         //Implemetention of WorkInter Intervface
 
